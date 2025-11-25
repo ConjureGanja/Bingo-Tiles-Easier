@@ -1,0 +1,5 @@
+{
+  "name": "Roasted Holiday Bingo",
+  "description": "An interactive OSRS-themed bingo tracker with Gemini-powered drop verification and strategy guides.",
+  "requestFramePermissions": []
+}
